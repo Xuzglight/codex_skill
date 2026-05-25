@@ -1,0 +1,8 @@
+﻿interface:
+  display_name: "微信文件发送"
+  short_description: "通过模拟键盘操作将文件发送给指定微信联系人"
+  brand_color: "#07C160"
+  default_prompt: "Use $wechat-send to send a file to a WeChat contact"
+
+policy:
+  allow_implicit_invocation: true
